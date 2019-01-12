@@ -1,4 +1,4 @@
-package io.github.evolutionThroughCraft.service.broker;
+package io.github.evolutionThroughCraft.broker;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
